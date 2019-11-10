@@ -5,16 +5,16 @@
 - Promote user interaction with wall.
 - Reward users for actively using Facebook.
 
-### First user would choose an avatar:
+## First user would choose an avatar:
 ![1](https://github.com/seljabali/comic-avatar-php-fb/blob/master/screen-shots/1.png)
-### Name it:
+## Name it:
 ![2](https://github.com/seljabali/comic-avatar-php-fb/blob/master/screen-shots/2.png)
-### Avatar would then "live" on user's wall
+## Avatar would then "live" on user's wall:
 ![3](https://github.com/seljabali/comic-avatar-php-fb/blob/master/screen-shots/3.png)
-### Facebook activity would level up avatar:
+## Facebook activity would level up avatar:
 ![4](https://github.com/seljabali/comic-avatar-php-fb/blob/master/screen-shots/4.png)
 ![lvlup](https://github.com/seljabali/comic-avatar-php-fb/blob/master/src/pics/level2/c8lvl2.jpg)
-### Avatar would regularly visit friends' walls:
+## Avatar would regularly visit friends' walls:
 ![5](https://github.com/seljabali/comic-avatar-php-fb/blob/master/screen-shots/5.png)
 ![6](https://github.com/seljabali/comic-avatar-php-fb/blob/master/screen-shots/6.png)
 
