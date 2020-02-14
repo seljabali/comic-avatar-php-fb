@@ -13,7 +13,7 @@
 ![3](https://github.com/seljabali/comic-avatar-php-fb/blob/master/screen-shots/3.png)
 ## Facebook activity would level up avatar:
 ![4](https://github.com/seljabali/comic-avatar-php-fb/blob/master/screen-shots/4.png)
-![lvlup](https://github.com/seljabali/comic-avatar-php-fb/blob/master/src/pics/level2/c8lvl2.jpg)
+<img src="https://github.com/seljabali/comic-avatar-php-fb/blob/master/src/pics/level2/c8lvl2.jpg" alt="" data-canonical-src="" width="600" height="600" />
 ## Avatar would regularly visit friends' walls:
 ![5](https://github.com/seljabali/comic-avatar-php-fb/blob/master/screen-shots/5.png)
 ![6](https://github.com/seljabali/comic-avatar-php-fb/blob/master/screen-shots/6.png)
